@@ -4,10 +4,11 @@ body {
 
 h1 {
     color: gainsboro;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
 img {
-    border: chocolate;
+    border: 5px double slategray;
 }
 
 p {
@@ -15,4 +16,11 @@ p {
         sans-serif;
     font-style: oblique;
     color: antiquewhite;
+    font-size: 15pt;
+}
+
+a {
+    color: rgb(173, 204, 173);
+    text-decoration-style: dashed;
+    font-size: 16pt;
 }
